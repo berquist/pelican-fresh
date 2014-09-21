@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Panic Sans';
+    src: url('panicsans-webfont.eot');
+    src: url('panicsans-webfont.eot?#iefix') format('embedded-opentype'),
+         url('panicsans-webfont.woff') format('woff'),
+         url('panicsans-webfont.ttf') format('truetype'),
+         url('panicsans-webfont.svg#panic_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Panic Sans Italic';
+    src: url('panicsansitalic-webfont.eot');
+    src: url('panicsansitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('panicsansitalic-webfont.woff') format('woff'),
+         url('panicsansitalic-webfont.ttf') format('truetype'),
+         url('panicsansitalic-webfont.svg#panic_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Panic Sans Bold';
+    src: url('panicsansbold-webfont.eot');
+    src: url('panicsansbold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('panicsansbold-webfont.woff') format('woff'),
+         url('panicsansbold-webfont.ttf') format('truetype'),
+         url('panicsansbold-webfont.svg#panic_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Panic Sans Bold Italic';
+    src: url('panicsansbolditalic-webfont.eot');
+    src: url('panicsansbolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('panicsansbolditalic-webfont.woff') format('woff'),
+         url('panicsansbolditalic-webfont.ttf') format('truetype'),
+         url('panicsansbolditalic-webfont.svg#panic_sansbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -11,6 +11,9 @@ $h6size: $h5size * 9/10;
 
 @import url(//fonts.googleapis.com/css?family=Overlock:400,700,900);
 @import url(//fonts.googleapis.com/css?family=PT+Mono);
+@import url(//fonts.googleapis.com/css?family=Inconsolata);
+
+@import url("../fonts/fonts.css");
 
 /*
  *  Name: Fresh
@@ -39,7 +42,7 @@ a {
 }
 
 @mixin headings {
-  font-family: "Microsoft YaHei", Overlock, sans-serif;
+  font-family: Overlock, sans-serif;
   font-weight: bold;
 }
 
@@ -122,7 +125,7 @@ ol {
 }
 
 .archive_row {
-  font-family: "Microsoft YaHei", Overlock, sans-serif;
+  font-family: Overlock, sans-serif;
   .archive_year{
     color: #113D8B;
     font-size: $h2size;
@@ -150,7 +153,7 @@ pre {
 }
 
 code, pre {
-  font-family: 'PT Mono', sans-serif;
+  font-family: 'Inconsolata', 'PT Mono', sans-serif;
 }
 
 blockquote {
